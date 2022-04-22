@@ -1,0 +1,6 @@
+module Pods_Panels {
+  umbrella header "Pods-Panels-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_Panels_PanelsTests {
+  umbrella header "Pods-Panels-PanelsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
